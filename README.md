@@ -1,6 +1,6 @@
-# Timer-App
+# Timer-App SwiftUI
 
-Timer that can be stoped, played and paused and works when moved to the background.
+Timer that can be stopped, played, and paused and works when moved to the background.
 
 ## Demo 
 
